@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Josias Cunha
+
+Hi! Sou um estudante de Análise de Sistemas e tenho interesse na área de desenvolvimento front-end.
+
+* Atualmente estudo na Faculdade Estácio de Sá
+* Estou aprendendo Javascript e banco de dados. Também estudo desenvolvimento em C++, Python e tenho interesse em Lua
+* Gosto muito de editar wikis e desenvolver pequenos projetos de layouts
+* E-mail: josiasc029@gmail.com
