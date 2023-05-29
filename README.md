@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 # Josias Cunha
 
-Olá! Sou um estudante de Análise de Sistemas e tenho interesse na área de desenvolvimento back-end.
+estudante 
 
-* Curso superior completo na Faculdade Estácio de Sá
-* Estou estudando Node.js e banco de dados. Também estudo desenvolvimento em C++, Python e tenho interesse em Lua
-* Gosto muito de editar wikis e desenvolver pequenos projetos de layouts, além de bots
 * E-mail: josiasc029@gmail.com
