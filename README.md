@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Josias Cunha
-
 estudante 
 
 * E-mail: josiasc029@gmail.com
